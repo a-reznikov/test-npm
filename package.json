@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/a-reznikov/test-npm/issues"
   },
-  "homepage": "https://github.com/a-reznikov/test-npm#readme"
+  "homepage": "https://github.com/a-reznikov/test-npm#readme",
+  "publishConfig": {
+    "@a-reznikov:registry": "https://npm.pkg.github.com"
+  }
 }
