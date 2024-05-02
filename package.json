@@ -18,5 +18,8 @@
   "homepage": "https://github.com/a-reznikov/test-npm#readme",
   "publishConfig": {
     "@a-reznikov:registry": "https://npm.pkg.github.com"
+  },
+  "dependencies": {
+    "@a-reznikov/test-npm": "1.0.6"
   }
 }
